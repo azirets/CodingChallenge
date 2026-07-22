@@ -2,6 +2,6 @@ package org.example;
 
 public class Aziret {
     public static void main(String[] args) {
-        System.out.println("testttt");
+        System.out.println("sgretertert");
     }
 }
