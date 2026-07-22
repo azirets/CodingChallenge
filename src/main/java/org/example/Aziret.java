@@ -1,7 +1,7 @@
 package org.example;
 
-public class Argentina {
+public class Aziret {
     public static void main(String[] args) {
-        System.out.println("C");
+        System.out.println("Azirettt");
     }
 }
